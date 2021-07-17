@@ -10,4 +10,4 @@ This repo contains just the scripts used for the project, since Unity projects t
 work well across different computers.
 
 
-[wfc sample](./wfc.png)
+![wfc sample](./wfc.png)
